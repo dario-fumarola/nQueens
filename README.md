@@ -50,6 +50,10 @@ def main():
       [4,5,6,7,8,9])
 ```
 
+The program will display the runtime for the chosen algorithms.
+
+![nqueen](https://user-images.githubusercontent.com/86791449/131873975-e96e8ec7-a25b-4cc5-adb7-92218b27a21d.png)
+
 
 ## License
 
